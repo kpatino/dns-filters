@@ -1,3 +1,5 @@
 # Custom DNS blocklist
 
+# Firefox DoH canary
+# https://support.mozilla.org/en-US/kb/canary-domain-use-application-dnsnet
 0.0.0.0 use-application-dns.net

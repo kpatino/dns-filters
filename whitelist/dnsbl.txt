@@ -441,7 +441,6 @@ upgrade.scdn.com
 market.spotify.com
 spclient.wg.spotify.com
 audio-ake.spotify.com.edgesuite.net
-wl.spotify.com
 
 # Target's Weekly Ads
 weeklyad.target.com
@@ -526,44 +525,29 @@ cs196.wac.edgecastcdn.net # CNAME for (pbs.twimg.com)
 cs2-wac.apr-8315.edgecastdns.net # CNAME for (pbs.twimg.com)
 cs2-wac-us.8315.ecdns.net # CNAME for (pbs.twimg.com)
 cs45.wac.edgecastcdn.net # CNAME for (pbs.twimg.com)
-
-# pfsense domain
+pfsense.org
 .pfsense.org
+netgate.com
 .netgate.com
-
-# Modrinth ads
 adrinth.com
-
-# Twitter 
 analytics.twitter.com
-
-# M365
+click.pstmrk.it
+go.corsair.com
 m365log.com
-
-# Roblox URL shortener
+r20.rs6.net
 ro.blox.com
-
-# Firefox telemetry
 telemetry.mozilla.org
+track.adtraction.com
+trk.klclick.com
+wl.spotify.com
+word-telemetry.officeapps.live.com
+www.shareasale.com
+jrxobj.clicks.mlsend.com
+awstrack.me
 incoming.telemetry.mozilla.org
 .incoming.telemetry.mozilla.org
 .services.mozilla.com # CNAME for (incoming.telemetry.mozilla.org)
 prod.ingestion-edge.prod.dataops.mozgcp.net # CNAME for (incoming.telemetry.mozilla.org)
-
-# Email tracker
-click.pstmrk.it
-
-# Corsair
-go.corsair.com
-
-# Fix Office online
-word-telemetry.officeapps.live.com
-
-# AWS package tracking
-awstrack.me
-
-# No idea
-www.shareasale.com
-jrxobj.clicks.mlsend.com
-track.adtraction.com
-trk.klclick.com
+securepubads.g.doubleclick.net
+googleadservices.com
+trace.svc.ui.com

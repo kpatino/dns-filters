@@ -6,3 +6,6 @@
 
 # Phishing 20260213
 0.0.0.0 flowto.it
+
+# 20260716
+0.0.0.0 htareps.sharepoint.com

@@ -7,8 +7,5 @@
 # Phishing 20260213
 0.0.0.0 flowto.it
 
-# 20260716
-0.0.0.0 htareps.sharepoint.com
-
 # 20261111
 0.0.0.0 redddit.com
